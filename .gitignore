@@ -3,4 +3,5 @@ st
 st.o
 x.o
 boxdraw.o
+hb.o
 
