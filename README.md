@@ -5,6 +5,7 @@ st is a simple terminal emulator for X which sucks less.
 #### Applied patches
 * alpha
 * boxdraw
+* font2
 * ligatures
 * scrollback
 * xresources
